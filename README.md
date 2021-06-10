@@ -1,5 +1,13 @@
 # Webapp Manager
 
+![License](https://img.shields.io/github/license/hsbasu/webapp-manager?label=License)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/hsbasu/webapp-manager?label=Repo%20size)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/hsbasu/webapp-manager?label=Latest%20Stable%20Release)
+
+![Downloads](https://img.shields.io/github/downloads/hsbasu/webapp-manager/total?label=Downloads&style=plastic)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/hsbasu/webapp-manager/1.1.3/webapp-manager_1.1.3_all.deb?color=blue&label=Downloads%40Latest)
+
 Run websites as if they were apps.
 
 FAQ
