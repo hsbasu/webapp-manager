@@ -6,7 +6,7 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/hsbasu/webapp-manager?label=Latest%20Stable%20Release)
 
 ![Downloads](https://img.shields.io/github/downloads/hsbasu/webapp-manager/total?label=Downloads&style=plastic)
-![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/hsbasu/webapp-manager/1.1.3/webapp-manager_1.1.3_all.deb?color=blue&label=Downloads%40Latest)
+![GitHub release (latest by date and asset)](https://img.shields.io/github/downloads/hsbasu/webapp-manager/1.1.4/webapp-manager_1.1.4_all.deb?color=blue&label=Downloads%40Latest)
 
 Run websites as if they were apps.
 
